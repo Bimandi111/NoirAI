@@ -906,6 +906,7 @@ button { cursor: pointer; border: none; background: none; font-family: var(--fon
   border: 1px solid rgba(249,168,212,0.22);
   border-bottom-right-radius: 4px;
   color: var(--text-primary);
+  -webkit-backdrop-filter: blur(28px);
   backdrop-filter: blur(12px);
 }
 
