@@ -1126,8 +1126,8 @@ button { cursor: pointer; border: none; background: none; font-family: var(--fon
   padding: 16px 20px 20px;
   border-top: 1px solid rgba(249,168,212,0.07);
   background: rgba(10,10,15,0.7);
-  backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
+  backdrop-filter: blur(20px);
   flex-shrink: 0;
 }
 
